@@ -6,7 +6,7 @@
 %define	pdir	IPC
 %define	pnam	Session
 Summary:	IPC-Session perl module
-Summary(pl):	Modu³ perla IPC-Session
+Summary(pl):	Modu³ Perla IPC-Session
 Name:		perl-IPC-Session
 Version:	0.05
 Release:	3
@@ -30,7 +30,7 @@ and/or 'rsh' sessions, within the same perl script.
 IPC::Session obudowuje funkcjê open3() (zobacz stronê podrêcznika
 systemowego dla IPC::Open3) i zwi±zane z ni± uchwyty plików. Pozwala to
 na ³atwe zarz±dzanie wieloma interaktywnymi sesjami, np. w przypadku
-wielu przezroczystych sesji 'ssh' i/lub 'rsh' w jednym skrypcie perla.
+wielu przezroczystych sesji 'ssh' i/lub 'rsh' w jednym skrypcie Perla.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
