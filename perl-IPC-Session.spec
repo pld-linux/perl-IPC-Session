@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	IPC
-%define	pnam	Session
+%define		pdir	IPC
+%define		pnam	Session
 Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
 Summary(pl):	Sterowanie ssh lub inn± interaktywn± pow³ok± lokaln± lub zdaln± (podobnie do expect)
 Name:		perl-IPC-Session
