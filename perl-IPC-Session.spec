@@ -32,7 +32,7 @@ wielu przezroczystych sesji 'ssh' i/lub 'rsh' w jednym skrypcie perla.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
