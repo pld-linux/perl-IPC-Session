@@ -5,8 +5,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	IPC
 %define	pnam	Session
-Summary:	IPC-Session perl module
-Summary(pl):	Modu³ Perla IPC-Session
+Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
+#Summary(pl):	
 Name:		perl-IPC-Session
 Version:	0.05
 Release:	3
