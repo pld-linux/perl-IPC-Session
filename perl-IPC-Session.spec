@@ -6,7 +6,7 @@
 %define	pdir	IPC
 %define	pnam	Session
 Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
-#Summary(pl):	
+Summary(pl):	Sterowanie ssh lub inn± interaktywn± pow³ok± lokaln± lub zdaln± (podobnie do expect)
 Name:		perl-IPC-Session
 Version:	0.05
 Release:	3
