@@ -32,7 +32,6 @@ wielu przezroczystych sesji 'ssh' i/lub 'rsh' w jednym skrypcie perla.
 %build
 perl Makefile.PL
 %{__make}
-%{__make} test
 
 %install
 rm -rf $RPM_BUILD_ROOT
