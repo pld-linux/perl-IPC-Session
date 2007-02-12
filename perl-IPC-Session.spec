@@ -6,7 +6,7 @@
 %define		pdir	IPC
 %define		pnam	Session
 Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
-Summary(pl):	Sterowanie ssh lub inn± interaktywn± pow³ok± lokaln± lub zdaln± (podobnie do expect)
+Summary(pl.UTF-8):   Sterowanie ssh lub innÄ… interaktywnÄ… powÅ‚okÄ… lokalnÄ… lub zdalnÄ… (podobnie do expect)
 Name:		perl-IPC-Session
 Version:	0.05
 Release:	3
@@ -26,10 +26,10 @@ manpage) and its associated filehandles.  This makes it easy to maintain
 multiple interactive command sessions, such as multiple persistent 'ssh'
 and/or 'rsh' sessions, within the same perl script.
 
-%description -l pl
-IPC::Session obudowuje funkcjê open3() (zobacz stronê podrêcznika
-systemowego dla IPC::Open3) i zwi±zane z ni± uchwyty plików. Pozwala to
-na ³atwe zarz±dzanie wieloma interaktywnymi sesjami, np. w przypadku
+%description -l pl.UTF-8
+IPC::Session obudowuje funkcjÄ™ open3() (zobacz stronÄ™ podrÄ™cznika
+systemowego dla IPC::Open3) i zwiÄ…zane z niÄ… uchwyty plikÃ³w. Pozwala to
+na Å‚atwe zarzÄ…dzanie wieloma interaktywnymi sesjami, np. w przypadku
 wielu przezroczystych sesji 'ssh' i/lub 'rsh' w jednym skrypcie Perla.
 
 %prep
