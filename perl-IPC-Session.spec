@@ -9,7 +9,7 @@ Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
 Summary(pl.UTF-8):	Sterowanie ssh lub inną interaktywną powłoką lokalną lub zdalną (podobnie do expect)
 Name:		perl-IPC-Session
 Version:	0.05
-Release:	3
+Release:	4
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
