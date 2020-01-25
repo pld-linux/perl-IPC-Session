@@ -4,7 +4,6 @@
 
 %define		pdir	IPC
 %define		pnam	Session
-%include	/usr/lib/rpm/macros.perl
 Summary:	Drive ssh or other interactive shell, local or remote (like 'expect')
 Summary(pl.UTF-8):	Sterowanie ssh lub inną interaktywną powłoką lokalną lub zdalną (podobnie do expect)
 Name:		perl-IPC-Session
